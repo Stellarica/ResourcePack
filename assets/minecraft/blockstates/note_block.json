@@ -1,0 +1,13 @@
+{
+	"multipart": [
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 20
+			},
+			"apply": {
+				"model": "block/custom/adamantite_block"
+			}
+		}
+	]
+}
