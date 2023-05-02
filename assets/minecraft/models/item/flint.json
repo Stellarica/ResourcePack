@@ -1,17 +1,17 @@
 {
-	"parent": "block/note_block",
+	"parent": "item/flint",
 	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/custom/wire"
+		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/custom/adamantite_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/custom/computer_core"
+			"model": "item/custom/processor"
 		},
 		{
 			"predicate": {

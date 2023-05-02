@@ -3,10 +3,47 @@
 		{
 			"when": {
 				"instrument": "harp",
-				"note": 20
+				"note": 18
+			},
+			"apply": {
+				"model": "block/custom/fuel_junction"
+			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 17
+			},
+			"apply": {
+				"model": "block/custom/computer_core"
+			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 15
 			},
 			"apply": {
 				"model": "block/custom/adamantite_block"
+			}
+		},
+	
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 20
+			},
+			"apply": {
+				"model": "block/custom/capacitor"
+			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 22
+			},
+			"apply": {
+				"model": "block/custom/steel_frame"
 			}
 		}
 	]
