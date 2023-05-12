@@ -1,0 +1,11 @@
+{
+	"parent": "item/golden_shovel",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/custom/test_blaster"
+		}
+	]
+}

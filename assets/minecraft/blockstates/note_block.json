@@ -45,6 +45,33 @@
 			"apply": {
 				"model": "block/custom/steel_frame"
 			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 23
+			},
+			"apply": {
+				"model": "block/custom/adamantite_ore"
+			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 13
+			},
+			"apply": {
+				"model": "block/custom/uranium_raw_block"
+			}
+		},
+		{
+			"when": {
+				"instrument": "harp",
+				"note": 3
+			},
+			"apply": {
+				"model": "block/custom/uranium_ore"
+			}
 		}
 	]
 }
